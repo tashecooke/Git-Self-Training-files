@@ -1,1 +1,1 @@
-console.console.log('Hello_World');
+console.console.log('NZDeX your connection to the World !!');
