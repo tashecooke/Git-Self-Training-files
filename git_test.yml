@@ -1,0 +1,11 @@
+# YAML Aint Markup Language
+person:
+    name:       "Geoff"
+    occuption:  'Engineer'
+    age:        58
+    fav_num:    1e+10
+    movies:["Dark Night"]
+    friends":
+        - name: "Geoff"
+        - gae:22
+        -
